@@ -1,139 +1,102 @@
 export const Data = {
   profile: {
-    name: "Matias Lagos",
-    ocupation: "FullStack Software Developer",
-    location: "Santiago, Chile",
-    email: "lagos.matias25@gmail.com",
-    telephone: "+56 971999705",
-    image: "images/90208122_10222269974249078_3631065450546200576_n.jpg",
+    name: "Christopher Ajayi",
+    ocupation: "Procurement Specialist",
+    location: "United Kingdom",
+    email: "abayomiajayi2002@yahoo.com",
+    telephone: "07831 649 985",
+    image: "images/yomi.png",
   },
   aboutMe: {
-    label: "Perfil",
-    description:
-      "Analista Programador, capacitado para desarrollar aplicaciones informáticas en diversas tecnologías y múltiples lenguajes de programación, aplicando metodologías ágiles de desarrollo, incluyendo identificación de necesidades y diseños de sistemas basados en modelos de desarrollo.",
+    label: "Professional Profile",
+    description: "An accomplished Procurement Specialist with over 14 years of comprehensive experience in procurement management, strategic sourcing, and supply chain optimisation. Possessing an unparalleled blend of expertise in managing complex procurement projects, enhancing supplier relations, and executing cost-effective procurement strategies across various sectors. Adept at navigating global markets' intricacies to deliver on operational excellence and cost-efficiency. Proactive in leveraging technology and sustainable practices to drive procurement innovation. Ambitious to leverage this diverse skill set to contribute to and drive success in dynamic and challenging environments.",
   },
   skills: {
-    technicalLabel: "Tecnologías",
+    technicalLabel: "Core Competencies",
     softLabel: "Skills",
     technicalSkills: [
-      "Angular",
-      "React",
-      "Java",
-      "Nodejs",
-      "Spring Boot",
-      "Nestjs",
-      "APIM",
-      "SQL",
-      "Git",
+      "Strategic Procurement & Sourcing",
+      "Supplier Relationship Management",
+      "Contract Negotiation & Management",
+      "Supply Chain Optimization",
+      "Risk Management & Market Analysis",
+      "Sustainability & Ethical Procurement",
+      "Technology Integration",
+      "Financial Acumen & Budget Management",
+      "Cross-functional Leadership",
+      "Adaptability & Problem-Solving"
     ],
     softSkills: [
-      "Capacidad de análisis",
-      "Resolución de Problemas",
-      "Pensamiento Crítico",
-      "Trabajo en equipo",
-      "Comunicación",
-      "Proactividad",
-      "Creatividad",
-      "Autodidacta",
-      "Mentoria",
+      "Leadership",
+      "Strategic Thinking",
+      "Communication",
+      "Negotiation",
+      "Problem Solving",
+      "Innovation",
+      "Teamwork",
+      "Adaptability",
+      "Ethical Judgment",
+      "Project Management"
     ],
   },
   socialMedia: {
     label: "SOCIAL",
     social: [
-      {
-        label: "Maaato",
-        name: "linkedin",
-        url: "https://www.linkedin.com/in/matias-alfonso-lagos-gajardo",
-        className: "bxl-linkedin-square",
-      },
-      {
-        label: "Maaato",
-        name: "github",
-        url: "https://github.com/Maaato",
-        className: "bxl-github",
-      },
-      {
-        label: "Maaato",
-        name: "twiiter",
-        url: "https://twitter.com/I_Maaato",
-        className: "bxl-twitter",
-      },
+      // Assuming placeholders for actual social media links and classes
     ],
   },
   experience: {
     works: [
       {
-        title: "FULL-STACK DEVELOPER",
-        period: "Oct. 2021 - Actualidad",
-        company: "Banco Ripley",
+        title: "Procurement Manager",
+        period: "2010 – Present",
+        company: "Crystal Produce and Projects Merchants Ltd.",
         description: [
-          "Desarrollo y mejora continua de microservicios REST en Java y Node.js(JS/TS).",
-          "Desarrollo y mejora continua de PWA en las tecnologías Angular, Ionic y Cordova.",
-          "Canalización CI/CD con Bitbucket, Jenkins y AWS como infraestructura."
+          "Orchestrated procurement strategies that significantly reduced costs by 10% while ensuring quality and sustainability.",
+          "Spearheaded negotiations for high-value contracts, achieving substantial savings and fostering long-term partnerships.",
+          "Championed implementing technology solutions to streamline procurement processes, enhancing efficiency and transparency.",
+          "Conducted comprehensive market analysis and risk assessment to inform procurement decisions and strategy development."
         ],
       },
       {
-        title: "FULL-STACK DEVELOPER",
-        period: "Oct. 2019 - Oct. 2021",
-        company: "Altiuz",
+        title: "Operations Manager",
+        period: "2008 – 2010",
+        company: "Yinktad International Company Ltd.",
         description: [
-          "Desarrollo de Web Services REST en Java y Nodejs(JS/TS) acompañado de diferentes motores de BD como Mysql, Oracle, MariaDB, MongoDB e IBM API Connect y 3scale como API Gateway.",
-          "Desarrollo de Frontend y Mobile con tecnologías como Angular, React, React Native, Ionic y Cordova.",
+          "Led operations for international trade, including logistics, compliance, and inventory management, achieving top performance metrics.",
+          "Drove profitability and operational improvements through strategic vendor negotiations and process optimisation.",
+          "Enhanced operational frameworks to support scalability and adaptability in a rapidly changing market environment."
         ],
       },
+      {
+        title: "Operational/Project Support",
+        period: "2006 – 2008",
+        company: "Yinktad International Company Ltd.",
+        description: [
+          "Delivered pivotal support in project execution and operational efficiency, facilitating seamless import/export operations.",
+          "Implemented robust compliance and documentation processes, ensuring alignment with global trade regulations."
+        ],
+      }
     ],
     academic: [
       {
-        career: "Técnico de Nivel Superior Analista Programador",
-        date: "2019",
-        institution: "Universidad Tecnológica de Chile INACAP",
+        career: "BSc Physics and Electronics",
+        date: "2002 - 2006",
+        institution: "Olabisi Onabanjo University",
       },
+      {
+        career: "Certifications in Procurement and Supply Chain Management",
+        date: "2023 - 2024",
+        institution: "Alison Online Academy",
+        courses: [
+          "Procurement in SAP",
+          "Effective Practices for Sourcing",
+          "Purchasing and Procurement",
+          "Principles of Sustainable Procurement",
+          "Modern Project Management – Quality, Risk, Procurement, and Project Closeout"
+        ]
+      }
     ],
-    proyects: [
-      {
-        name: "Onboarding Digital",
-        company: "Banco de Chile",
-        period: "Nov. 2019 - Ene. 2020",
-        description: [
-          "Control, desarrollo, securitización y despliegue de APIs en plataforma IBM API Connect.",
-        ],
-      },
-      {
-        name: "Captación Digital",
-        company: "Banco Ripley",
-        period: "Ene. 2020 - Feb. 2020",
-        description: [
-          "Control, desarrollo y securitización de APIs en plataforma IBM API Connect.",
-          "Desarrollo frontend en Angular para el consumo de Web Services SOAP/REST apuntando a ambientes DEV/PRE-PROD/PROD como simulación.",
-        ],
-      },
-      {
-        name: "Agendamiento Remoto",
-        company: "Gobierno de Chile",
-        period: "Mar. 2020 - May. 2020",
-        description: [
-          "Desarrollo frontend y mobile con las tecnologias de Angular 6 e Ionic 4 para el agendamiento de horas en centros a lo largo de todo Chile.",
-        ],
-      },
-      {
-        name: "Altiuz Report Dynamic",
-        company: "Altiuz",
-        period: "Jun. 2020 - Jul. 2020",
-        description: [
-          "Desarrollo de servicio Java para la generación unitaria de documentos, sin la necesidad de tener almacenada la información del mismo en una fuente de datos.",
-        ],
-      },
-      {
-        name: "Desarrollos Tigo",
-        company: "Computec S.A.S",
-        period: "Ago. 2020 - Dic 2020",
-        description: [
-          "Desarrollo Java/Spring Boot de Web Service API REST para consulta y descarga de documentos almacenados en repositorios IBM CMOD.",
-          "Desarrollo Java CRON para transferencia de documentos XML hacia servidor SFTP.",
-          "Desarrollo Java CRON para carga de documentos PDFs hacia Azure Blob Storage.",
-        ],
-      },
-    ],
+    projects: []
   },
 };
