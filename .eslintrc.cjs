@@ -1,4 +1,3 @@
-import 'react-refresh/babel';
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },
