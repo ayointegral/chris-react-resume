@@ -1515,10 +1515,10 @@ react-is@^16.13.1, react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-particles-js@^3.4.1:
-  version "3.5.3"
-  resolved "https://registry.yarnpkg.com/react-particles-js/-/react-particles-js-3.5.3.tgz#5fa8912cd3317061e4d31ed7743d331d9d7f2afe"
-  integrity sha512-e9GWBT51WDtPkcaSy0ZLUAT93lBzDvuqrfW81NOf6G69XSurgCtVy4+ZYpUCnLhZgkokzsjrhtVOSj1FxPVyEw==
+react-particles-js@^3.5.3:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/react-particles-js/-/react-particles-js-3.6.0.tgz#3c9c22fbf93150d1fd1a190cd060ec1d6dcaa373"
+  integrity sha512-gQzUKZgPpjdplhAtskLnn9frLyei6uGuWabNtBGWnr3eZpHXfXJO1F8sedPhO29xfpKixE3HEejwGQAld8K16Q==
   dependencies:
     lodash "^4.17.11"
 
