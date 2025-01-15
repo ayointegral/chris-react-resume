@@ -1,7 +1,7 @@
 export const Data = {
   profile: {
-    name: "Christopher Ajayi",
-    ocupation: "Procurement Specialist",
+    name: "ABAYOMI CHRISTOPHER AJAYI",
+    ocupation: "Trade Specialist",
     location: "United Kingdom",
     email: "abayomiajayi2002@yahoo.com",
     telephone: "07831 649 985",
@@ -9,7 +9,7 @@ export const Data = {
   },
   aboutMe: {
     label: "Professional Profile",
-    description: "An accomplished Procurement Specialist with over 14 years of comprehensive experience in procurement management, strategic sourcing, and supply chain optimisation. Possessing an unparalleled blend of expertise in managing complex procurement projects, enhancing supplier relations, and executing cost-effective procurement strategies across various sectors. Adept at navigating global markets' intricacies to deliver on operational excellence and cost-efficiency. Proactive in leveraging technology and sustainable practices to drive procurement innovation. Ambitious to leverage this diverse skill set to contribute to and drive success in dynamic and challenging environments.",
+    description: "An accomplished sale, marketing, exports, supplies, procurement, brokerage personnel, having verse knowledge of the supply chain and industrial environment and also verse in warehousing and warehouse operations with skills, knowing how to operate in the warehouse environment from loading to unloading, wrapping, cleaning/hygiene, analysis, forklift driving, stock taking etc to marketing, sales and export or supplies of those products from the warehouse being a trade specialist. Strategic sourcing, warehouse management and warehousing, distribution and supply chain optimization. Possessing an unparalleled blend of expertise in managing complex procurement projects, enhancing supplier relations, and executing cost-effective procurement strategies across various sectors. Adept at navigating global markets' intricacies to deliver on operational excellence and cost-efficiency. Proactive in leveraging technology and sustainable practices to drive sales, supplies and marketing to leverage this diverse skill set to contribute to and drive success in dynamic and challenging environments. Always ready to work in any field when it comes to warehousing, procurement, supplies, marketing, and trade.",
   },
   skills: {
     technicalLabel: "Core Competencies",
@@ -48,19 +48,19 @@ export const Data = {
   experience: {
     works: [
       {
-        title: "Procurement Manager",
-        period: "2010 – Present",
+        title: "Procurement, Warehousing, Supply and Marketing Team",
+        period: "01/2010 - 12/2023",
         company: "Crystal Produce and Projects Merchants Ltd.",
         description: [
-          "Orchestrated procurement strategies that significantly reduced costs by 10% while ensuring quality and sustainability.",
-          "Spearheaded negotiations for high-value contracts, achieving substantial savings and fostering long-term partnerships.",
-          "Championed implementing technology solutions to streamline procurement processes, enhancing efficiency and transparency.",
-          "Conducted comprehensive market analysis and risk assessment to inform procurement decisions and strategy development."
+          "Orchestrated procurement, warehousing and sale, marketing and supply strategies that significantly reduced costs by 20% while ensuring quality and sustainability.",
+          "Spearheaded negotiations for high-value contracts, achieving substantial savings and fostering long-term partnerships with clients.",
+          "Championed implementing technology solutions to streamline processes, enhancing efficiency and transparency.",
+          "Conducted comprehensive market analysis and risk assessment to inform marketing and sales and supplies decisions and strategy development."
         ],
       },
       {
-        title: "Operations Manager",
-        period: "2008 – 2010",
+        title: "Operations Team",
+        period: "08/2008 - 01/2010",
         company: "Yinktad International Company Ltd.",
         description: [
           "Led operations for international trade, including logistics, compliance, and inventory management, achieving top performance metrics.",
@@ -70,26 +70,36 @@ export const Data = {
       },
       {
         title: "Operational/Project Support",
-        period: "2006 – 2008",
+        period: "01/2006 - 08/2008",
         company: "Yinktad International Company Ltd.",
         description: [
-          "Delivered pivotal support in project execution and operational efficiency, facilitating seamless import/export operations.",
+          "Delivered pivotal support in project execution and operational efficiency, facilitating seamless import/export and warehousing operations.",
           "Implemented robust compliance and documentation processes, ensuring alignment with global trade regulations."
+        ],
+      },
+      {
+        title: "General Warehouse Operative",
+        period: "Various",
+        company: "LT Foods, SOP International, Matthews Haulage, OH Logistics, Delta Group",
+        description: [
+          "General warehouse operations including forklift/counter balance driving.",
+          "Performed tasks through SF Staffing Recruitment Agency and Extra Staff."
         ],
       }
     ],
     academic: [
       {
-        career: "BSc Physics and Electronics",
-        date: "2002 - 2006",
-        institution: "Olabisi Onabanjo University",
+        career: "BSc Physics with Electronics",
+        date: "07/2002 - 04/2006",
+        institution: "Olabisi Onabanjo University, Nigeria",
       },
       {
-        career: "Certifications in Procurement and Supply Chain Management",
-        date: "2023 - 2024",
-        institution: "Alison Online Academy",
+        career: "Certification in Procurement and Supply Chain Management",
+        date: "10/2023",
+        institution: "Alison Academy",
         courses: [
-          "Procurement in SAP",
+          "Salesmanship, Marketing and Procurement in SAP",
+          "Market forecasting",
           "Effective Practices for Sourcing",
           "Purchasing and Procurement",
           "Principles of Sustainable Procurement",
